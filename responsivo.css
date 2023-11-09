@@ -1,0 +1,18 @@
+
+@media (max-width: 1438px) {
+   .pinturas {
+      width:773px;
+   }
+   main {
+      height: 100%;
+   }
+}
+@media (max-width: 768px) {
+   main {
+      height: 100%;
+   }
+   .pinturas {
+      gap: 0px;
+      flex-direction: column;
+   }
+}
