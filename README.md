@@ -11,8 +11,8 @@
 - ### computador 
 ![computador](imagens/capturas/computador.png)
 
-- ### tablet 
-![tablet](imagens/capturas/tablet.png)
+- ### ipad 
+![ipad](imagens/capturas/tablet.png)
 
 - ### celular
 ![celular](imagens/capturas/celular.png)
